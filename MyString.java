@@ -23,4 +23,9 @@ public class MyString {
         this.lastName = lastName;
     }
 
+     public void setFullName(firstName, lastName) {
+        this.firstName = "Hi " + firstName + " ";
+        this.lastName = lastName;
+     }
+
 }
