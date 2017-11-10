@@ -19,7 +19,7 @@ public class MyString {
     }
 
     public void setFullName(firstName, lastName) {
-        this.firstName = firstName;
+        // this.firstName = firstName;
         this.lastName = lastName;
     }
 
