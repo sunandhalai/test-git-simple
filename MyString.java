@@ -7,15 +7,20 @@ public class MyString {
 
 
     public void setId(String id){
-        // this.Id = id;
+        this.Id = id;
     }
 
     public void setFristName(String firstName){
-        // this.firstName = firstName;
+        this.firstName = firstName;
     }
 
     public void setLastName(String lastName){
-        // this.lastName = lastName;
+        this.lastName = lastName;
+    }
+
+    public void setFullName(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
     }
 
 }
