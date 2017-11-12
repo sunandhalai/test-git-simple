@@ -18,6 +18,11 @@ public class MyString {
         this.lastName = lastName;
     }
 
+    public void setFullNameNotHi(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
      public void setFullName(String firstName, String lastName) {
         this.firstName = "Hi " + firstName + " ";
         this.lastName = lastName;
