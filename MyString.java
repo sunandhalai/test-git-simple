@@ -23,7 +23,7 @@ public class MyString {
         this.lastName = lastName;
     }
 
-     public void setFullName(firstName, lastName) {
+     public void setFullName(String firstName, String lastName) {
         this.firstName = "Hi My Friend" + firstName + " ";
         this.lastName = lastName;
      }
