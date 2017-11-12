@@ -6,16 +6,16 @@ public class MyString {
     private String lastName;
 
 
-    public void setId(String id){
-        // this.Id = id;
+    public void setId(String _id) {
+        this.Id = _id;
     }
 
-    public void setFristName(String firstName){
-        // this.firstName = firstName;
+    public void setFristName(String _firstName){
+        this.firstName = _firstName;
     }
 
-    public void setLastName(String lastName){
-        // this.lastName = lastName;
+    public void setLastName(String _lastName){
+        this.lastName = _lastName;
     }
 
 }
