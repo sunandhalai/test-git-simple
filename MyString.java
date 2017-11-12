@@ -18,12 +18,7 @@ public class MyString {
         this.lastName = lastName;
     }
 
-    public void setFullName(firstName, lastName) {
-        // this.firstName = firstName;
-        this.lastName = lastName;
-    }
-
-     public void setFullName(firstName, lastName) {
+     public void setFullName(String firstName, String lastName) {
         this.firstName = "Hi " + firstName + " ";
         this.lastName = lastName;
      }
