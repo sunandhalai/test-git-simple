@@ -2,8 +2,5 @@
 test git
 
 
-| write on vs-code - commit on githubdesktop
-
-
-| write on VS-Code 
+| write on VS-Code And PhpStorm
 
