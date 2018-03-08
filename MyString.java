@@ -10,6 +10,10 @@ public class MyString {
         this.Id = id;
     }
 
+    public void setId(String id){
+        this.Id = id;
+    }
+
     public void setFristName(String firstName){
         this.firstName = firstName;
     }
